@@ -6,3 +6,5 @@ fixbug11
 =======
 develop 42ing 
 >>>>>>> Stashed changes
+
+feature1 finish
