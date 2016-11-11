@@ -1,4 +1,8 @@
 bghjjklcc
 完成了功能21开发
+<<<<<<< Updated upstream
 fixbug11
 22
+=======
+develop 42ing 
+>>>>>>> Stashed changes
